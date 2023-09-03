@@ -1,13 +1,19 @@
-# Request Header Parser Microservice
+### Project details - Request Header Parser Microservice
 
-Build a full stack JavaScript app that is functionally similar to this: https://request-header-parser-microservice.freecodecamp.rocks/.
+Its a microservice that provides a JSON output for api requests on particular url, providing its
 
-Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+1. ip address.
+2. language
+3. software in JSON format
 
-## You should provide your own project, not the example URL.
+### Project Live Link - https://header-parser-microservice.vishal-gits.repl.co/
 
-## A request to /api/whoami should return a JSON object with your IP address in the ipaddress key.
+This is a certification project of "FCC Backend Development And APIs Projects"
 
-## A request to /api/whoami should return a JSON object with your preferred language in the language key.
+on "Free Code Camp" https://www.freecodecamp.org/
 
-## A request to /api/whoami should return a JSON object with your software in the software key.
+The Requirements of the project are stated in the below link
+
+https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice
+
+### A full stack Javascript app built using NodeJS and Express
